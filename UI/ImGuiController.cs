@@ -3,7 +3,7 @@ using System.Numerics;
 using Raylib_cs;
 using ImGuiNET;
 
-namespace LevelEditor2D
+namespace LevelEditor2D.UI
 {
     /// <summary>
     /// ImGui controller using Raylib-cs
